@@ -1,0 +1,5 @@
+> show dbs
+
+> use College
+
+>db.Students.update({roll:111},{$set:{name:"Kazi Azom",clg:"Sompara College",tutionFee:"2000"}})

@@ -1,0 +1,5 @@
+> show dbs 
+
+> use College
+
+> db.createCollection("Students")

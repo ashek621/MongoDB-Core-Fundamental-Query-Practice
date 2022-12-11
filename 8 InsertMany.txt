@@ -1,0 +1,19 @@
+
+> show dbs
+
+> use Company 
+
+> db.Information.insertMany([
+
+	{CompanyName:'Google',Founder:'Larry Page,Sergey Brin ',Year:'1998',AnnualRevenue:'256.7B USD',Origin:'USA',},
+
+	{CompanyName:'MicroSoft',Founder:'Bill Gates ',Year:'1975',AnnualRevenue:'198.27B USD',Origin:'USA',},
+
+	{CompanyName:'FaceBook',Founder:'Mark Zukarbarg Jobs',Year:'2004',AnnualRevenue:'117.9B USD',Origin:'USA',},
+
+	{CompanyName:'Amazon',Founder:'Jeff Bezos',Year:'1994',AnnualRevenue:'485.902B USD',Origin:'USA',},
+
+	{CompanyName:'Apple',Founder:'Steve Jobs',Year:'1976',AnnualRevenue:'365.87B USD',Origin:'USA',}
+
+
+	])

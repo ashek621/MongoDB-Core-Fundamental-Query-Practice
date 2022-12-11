@@ -1,0 +1,5 @@
+> show dbs
+
+> use College
+
+> db.Students.find({tutionFee:{$ne:"200"}},{roll:1,name:1,tutionFee:1,_id:0}).pretty()

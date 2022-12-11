@@ -1,0 +1,6 @@
+
+> show dbs
+
+> use Company 
+
+> db.Information.insertOne({companyName:'MicroSoft',founder:'Bill Gates ',year:'1975',annualRevenue:'198.27B USD',origin:'USA'})

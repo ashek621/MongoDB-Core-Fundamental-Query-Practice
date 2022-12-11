@@ -1,0 +1,6 @@
+
+> show dbs
+
+> use Company 
+
+> db.Information.insert({companyName:"Apple",founder:"Steve Jobs",year:"1976",annualRevenue:"365.87B USD",origin:"USA"})
